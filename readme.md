@@ -18,12 +18,23 @@ You need to have the environment for react native configured, we will not touch 
     npm install
 ```
 
+### Android
 2.- For android emulator, run:
 ```sh
     npx react-native run-android
 ```
+### IOS
+3.- In terminal move to ios folder and run: 
+```sh
+    pod install
+```
 
-3.- For ios emulator, (only in mac OS) run:
+    For Macbook Air with M1
+```sh
+    arch -x86_64 pod install
+```
+
+4.- Return to main folder and run (only in mac OS):
 ```sh
     npx react-native run-ios
 ```
