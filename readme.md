@@ -45,15 +45,3 @@ If you close the app, the app will save the last card that you see, when you com
 
 ### Additional Feature ( Save Last Viewed Card)
 ![Normal Function on Android](https://media.giphy.com/media/RUlBtvY5CsaP3MvDz4/giphy.gif?cid=790b7611a0a44333d7d32532ac66e55981353f93bf41db41&rid=giphy.gif&ct=g)
-
-
-
-
-
-
-
-
-
-
-
-<div style="width:100%;height:0;padding-bottom:200%;position:relative;"><iframe src="https://giphy.com/embed/VNH0KoJB2qvSCYtzfh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/VNH0KoJB2qvSCYtzfh">via GIPHY</a></p>
