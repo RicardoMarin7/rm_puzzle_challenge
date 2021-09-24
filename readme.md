@@ -44,4 +44,7 @@ If you close the app, the app will save the last card that you see, when you com
 ![Normal Function on Android](https://media.giphy.com/media/VNH0KoJB2qvSCYtzfh/giphy.gif)
 
 ### Additional Feature ( Save Last Viewed Card)
-![Normal Function on Android](https://media.giphy.com/media/RUlBtvY5CsaP3MvDz4/giphy.gif?cid=790b7611a0a44333d7d32532ac66e55981353f93bf41db41&rid=giphy.gif&ct=g)
+
+
+Click The Image
+[![IAdditional Feature Video](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/320px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=QSx8JHqxvoc)
