@@ -59,3 +59,10 @@ If you close the app, the app will save the last card that you see, when you com
 
 Click The Image
 [![IAdditional Feature Video](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/320px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=QSx8JHqxvoc)
+
+### Normal Function iOS
+![Normal Function on iOS](https://media.giphy.com/media/uN9fW5b08z5Aj6atZL/giphy.gif?cid=790b7611a519de38b1f676274adfd290514d81a52af58c80&rid=giphy.gif&ct=g)
+
+### Additional Feature iOS
+[![IAdditional Feature Video](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/320px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=OwqVKz1w5Ps)
+
