@@ -56,8 +56,6 @@ If you close the app, the app will save the last card that you see, when you com
 
 ### Additional Feature ( Save Last Viewed Card)
 
-
-Click The Image
 [![IAdditional Feature Video](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/320px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=QSx8JHqxvoc)
 
 ### Normal Function iOS
