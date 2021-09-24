@@ -1,48 +1,31 @@
 import React from 'react'
-import { View, Image, Text, } from 'react-native'
+import { View, Image, Text, Animated } from 'react-native'
 import { styles } from './styles'
 
-const CarouselCard = ({item}) => {
+const CarouselCard = ({item, white }) => {
 
     return (
-        <View style={ styles.CarouselCard__container }>
+        <Animated.View style={ styles.CarouselCard__container}>
             <View style={ styles.CarouselCard__inner_container} >
                 <Image source={{uri: item?.image[0]}}
                     style={ styles.CarouselCard__image }
                 />
 
                 <View
-                    style={styles.CarouselCard__text_container}
+                    style={ white ? { ...styles.CarouselCard__text_container, ...styles.CarouselCard__white_mode} : styles.CarouselCard__text_container }
                 >
                     <Text
-                        style={{
-                            fontWeight: '700',
-                            alignSelf: 'flex-start',
-                            letterSpacing: 1.1,
-                            textTransform: 'uppercase',
-                            paddingHorizontal: 15,
-                            paddingTop: 20,
-                            color: 'white',
-                            fontSize: 13                        
-                        }}
+                        style={ white ? { ...styles.CarouselCard__title , ...styles.CarouselCard__white_mode} : styles.CarouselCard__title  }
                     >{item.title}</Text>
                     
                     <Text
-                        style={{
-                            fontSize: 11,
-                            paddingHorizontal: 15,
-                            paddingVertical: 5,
-                            marginBottom: 10,
-                            maxWidth: '90%',
-                            fontStyle: 'italic',
-                            color: '#ffffffbd',
-                            lineHeight: 14,
-                        }}
+                        style={ white ? { ...styles.CarouselCard__description , ...styles.CarouselCard__white_mode} : styles.CarouselCard__description  }
+                        
                     >{item.description}</Text>
                 </View>
                 
             </View>
-        </View>
+        </Animated.View>
     );
 }
  

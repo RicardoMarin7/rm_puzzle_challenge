@@ -1,17 +1,15 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { SafeAreaView, StatusBar } from 'react-native'
 import { data } from './src/api/carousel'
 import Carousel from './src/components/Carousel'
 
 const App = () => {
-  
-
-  
-
   return (
     <SafeAreaView style={{flex: 1}}>
       <StatusBar hidden/>
-      <Carousel data={data} />
+      <Carousel 
+        data={data} 
+      />
     </SafeAreaView>
   )
 }
